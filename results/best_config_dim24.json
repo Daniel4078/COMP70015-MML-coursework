@@ -1,1 +1,1 @@
-{"layer_width": 8, "layer_depth": 2, "activation": "tanh", "lr": 0.0008294220015965761, "momentum": 0.5234049023160569, "preprocess": "base", "portion": 3}
+{"layer_width": 16, "layer_depth": 3, "activation": "tanh", "lr": 0.008246504440377682, "momentum": 0.7333410953928362}
